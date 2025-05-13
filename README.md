@@ -121,8 +121,6 @@
 <b>Congratulations!!! You have done it</b>
 
 - If you find any issue during the execution of this project, let me know on LinkedIn
-
-- Happy Learning :)
 #
 
 # node-todo-cicd
